@@ -38,5 +38,4 @@ Register as an admin to gain administrative privileges.
 
 # License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
-
+This project is licensed under the GNU General Public License v2.0 - see the [LICENSE]([https://www.google.com](https://github.com/sankalpvyas11/Musk-Process-Services---Sankalp/blob/main/LICENSE)https://github.com/sankalpvyas11/Musk-Process-Services---Sankalp/blob/main/LICENSE) file for details
