@@ -38,4 +38,4 @@ Register as an admin to gain administrative privileges.
 
 # License
 
-This project is licensed under the GNU General Public License v2.0 - see the [LICENSE]([https://www.google.com](https://github.com/sankalpvyas11/Musk-Process-Services---Sankalp/blob/main/LICENSE)https://github.com/sankalpvyas11/Musk-Process-Services---Sankalp/blob/main/LICENSE) file for details
+This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](https://github.com/sankalpvyas11/Musk-Process-Services---Sankalp/blob/main/LICENSE) file for details
