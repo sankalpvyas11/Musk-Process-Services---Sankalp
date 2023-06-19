@@ -20,7 +20,7 @@ This project involves the development of a web application for Musk Process Serv
 
 # Installation
 
-* Clone the repository: git clone https://github.com/sankalpvyas11/musk-process-services.git
+* Clone the repository: git clone https://github.com/sankalpvyas11/Musk-Process-Services---Sankalp.git
 * Set up Apache web server and configure it to serve the application.
 * Set up MySQL database and import the provided database schema.
 * Configure the database connection settings in the application's configuration files.
